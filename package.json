@@ -1,0 +1,15 @@
+{
+  "name": "ideffux",
+  "version": "1.0.0",
+  "description": "my own implementation of redux",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "IdeFFiX",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^13.0.2"
+  }
+}
